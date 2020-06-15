@@ -15,7 +15,7 @@
 
 ## We also provide separate python files for each experiment for convenience:
 * To run the video - co-localization experiment:  
-*python video-co-localization.py*<br/><br/>
+*python Video Co-localization.py*<br/><br/>
 
 * To run the Lasso Regression (small instance) Experiment:  
 *python lasso_regression_small.py*<br/><br/>
