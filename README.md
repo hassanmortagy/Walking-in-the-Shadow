@@ -13,7 +13,7 @@
 *Walking_in_the_shadow_code.ipynb*
 
 
-## We also provide separate python files for each experiment for convenience:
+## We also provide separate python files for each experiment:
 * To run the video - co-localization experiment:  
 *python Video Co-localization.py*<br/><br/>
 
